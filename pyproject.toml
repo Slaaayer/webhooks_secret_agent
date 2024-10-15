@@ -1,10 +1,9 @@
 [tool.poetry]
-name = "webhook-seminaire"
+name = "webhooks_secret_agent"
 version = "0.1.0"
 description = ""
-authors = ["Ayoub BOUNAGA <a.bounaga@dental-monitoring.com>"]
+authors = ["Ayoub BOUNAGA <ayoubebounaga@gmail.com>"]
 readme = "README.md"
-packages = [{include = "webhook_seminaire"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
