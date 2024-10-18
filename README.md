@@ -1,9 +1,9 @@
 # Prerequisites
 
 1. If it wasn't done already, install the following prerequisites :
- - [Python](https://www.python.org/) > v3.10
- - [Poetry](https://python-poetry.org/docs/) = v1.4.2
- - [Ngrok](https://ngrok.com/) = v3.16.0 Make sure you create an ngrok account. If you're on Windows and experiencing some issues with the antivirus software, check the following [Confluence](https://dentalm.atlassian.net/wiki/spaces/QAT/pages/3921018892/How+To+run+GW+automated+tests).
+ - [Python](https://www.python.org/) > v3.10.
+ - [Poetry](https://python-poetry.org/docs/) = v1.4.2.
+ - [Ngrok](https://ngrok.com/) = v3.16.0 Make sure you create an ngrok account.
 2. Install your poetry environment : 
 
 ```bash
